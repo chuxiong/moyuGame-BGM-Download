@@ -6,7 +6,7 @@
 ## document
 ```shell
 
-git clone
+git clone git@github.com:chuxiong/moyuGame-BGM-Download.git
 
 cd moyuGame-BGM-Download
 
