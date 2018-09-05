@@ -4,14 +4,21 @@
 
 
 ## document
-```shell
+
 1、
+```shell
 git clone git@github.com:chuxiong/moyuGame-BGM-Download.git
+```
 2、
+```shell
 cd moyuGame-BGM-Download
+```
 3、
+```shell
 npm install
+```
 4、
+```shell
 node app
 ```
 
